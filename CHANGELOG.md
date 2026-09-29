@@ -32,6 +32,36 @@ Planned
 
 September 2026
 
+Black Box™ Merchandise: DESSALINES | THE MARK:ET:IN
+
+Added
+
+docs/01-black-box/merch/
+
+Added the first documented Black Box™ Universe merchandise collection, DESSALINES | THE MARK:ET:IN, honoring Jean-Jacques Dessalines.
+
+The addition includes:
+
+- DESSALINES-THE-MARKETIN.md: collection identity, product line, historical lineage and attribution, review checklist, and development status
+- dessalines-the-marketin-mockups.png: the collection mockup sheet
+- README.md: the merch index for future collections
+
+The collection spans apparel, headwear, outerwear, accessories, collectibles, and art prints.
+
+Why: To document the collection's concept and record the historical lineage of its artwork, as required by the Historical Figure Merchandise Rule.
+
+Contributed by: Arnaz Barrington (Founder)
+
+Next: Complete the review checklist, then move from design to prototype.
+
+Updated
+
+README.md
+
+Featured the new collection on the repository front page.
+
+---
+
 Repository Foundation
 
 Added

@@ -38,3 +38,14 @@ GitHub gives the ecosystem a place where:
 The mission must be bigger than the founder.
 
 The goal is to build something capable of continuing beyond any single person—while keeping the intention, attribution, evidence, creativity, and human impact at the center.
+---
+
+## New Merch: DESSALINES | THE MARK:ET:IN
+
+[![DESSALINES | THE MARK:ET:IN collection mockups](docs/01-black-box/merch/dessalines-the-marketin-mockups.png)](docs/01-black-box/merch/DESSALINES-THE-MARKETIN.md)
+
+A BLH Black Box™ Universe historical figure collection honoring Jean-Jacques Dessalines: apparel, headwear, outerwear, accessories, collectibles, and art prints.
+
+History is power. Culture is currency. The MARK:ET:IN.
+
+[View the collection](docs/01-black-box/merch/DESSALINES-THE-MARKETIN.md) · [All BLH merch](docs/01-black-box/merch/README.md)
