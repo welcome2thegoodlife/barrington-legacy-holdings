@@ -38,6 +38,7 @@ GitHub gives the ecosystem a place where:
 The mission must be bigger than the founder.
 
 The goal is to build something capable of continuing beyond any single person—while keeping the intention, attribution, evidence, creativity, and human impact at the center.
+
 ---
 
 ## New Merch: DESSALINES | THE MARK:ET:IN
